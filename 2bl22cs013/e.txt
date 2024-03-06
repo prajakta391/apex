@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 bhk
 
 blj
 
+=======
+line
+>>>>>>> Stashed changes
 asd
